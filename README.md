@@ -1,5 +1,5 @@
 
-# EDA/ML to analyze Trending YouTube videos
+# Trending YouTube videos/ View Prediction
 
 - Dataset : a daily record of the top trending YouTube videos in numerous countries
 
