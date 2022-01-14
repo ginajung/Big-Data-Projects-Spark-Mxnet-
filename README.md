@@ -1,14 +1,14 @@
 
-# Deep Learning with Apache MxNet 
-
-
-
 # EDA/ML to analyze Trending YouTube videos
 
-This work analyse the trend of YouTube videos in numerous conturies. 
+- Dataset : a daily record of the top trending YouTube videos in numerous countries
 
-- view
-- like / dislike
-- upload
-- category
-- weekly trend
+ 1. Data Loading / Pre-processing 
+ 2. EDA / Feature Engineering
+ 3. Machine Learning with Sklearn
+ 4. Machine Learning with Spark
+
+
+# Image Multi-Classification  
+
+- Datasest : indoor image
