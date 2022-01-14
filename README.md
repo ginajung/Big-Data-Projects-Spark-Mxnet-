@@ -11,4 +11,5 @@
 
 # Image Multi-Classification  
 
-- Datasest : indoor image
+- Datasest : indoor images
+
